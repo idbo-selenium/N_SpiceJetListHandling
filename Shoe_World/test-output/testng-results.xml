@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="38513" started-at="2016-07-04T06:35:30Z" finished-at="2016-07-04T06:36:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="38513" started-at="2016-07-04T06:35:30Z" finished-at="2016-07-04T06:36:08Z">
+      <class name="Handling_Lists.SpiceJet_ListHandling">
+        <test-method status="PASS" signature="SpiceJet_ListHandling_LeavingFrom()[pri:0, instance:Handling_Lists.SpiceJet_ListHandling@61a52fbd]" name="SpiceJet_ListHandling_LeavingFrom" duration-ms="18885" started-at="2016-07-04T12:05:30Z" finished-at="2016-07-04T12:05:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SpiceJet_ListHandling_LeavingFrom -->
+        <test-method status="PASS" signature="SpiceJet_ListHandling_Going_To()[pri:0, instance:Handling_Lists.SpiceJet_ListHandling@61a52fbd]" name="SpiceJet_ListHandling_Going_To" duration-ms="19616" started-at="2016-07-04T12:05:48Z" finished-at="2016-07-04T12:06:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SpiceJet_ListHandling_Going_To -->
+      </class> <!-- Handling_Lists.SpiceJet_ListHandling -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
